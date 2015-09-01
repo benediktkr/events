@@ -1,0 +1,27 @@
+.post-content {
+    top:0;
+    left:0;
+    position: absolute;
+    align:left;
+}
+
+
+
+.thumbnail_legend {
+    opacity: 1.0;
+    top:0;
+    left:10px;
+    position: absolute;
+    color: #ffffff;
+}
+
+.thumbnail_legend a:link {
+    color: #ffffff;
+}
+
+.thumbnail {
+    position:relative;
+    max-height: 200px;
+    border: 0;
+    max-width: 600px;
+}
